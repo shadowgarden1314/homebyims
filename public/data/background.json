@@ -1,0 +1,53 @@
+ [
+    {
+        "name": "默认背景",
+        "url": "",
+        "images": [
+            "/image/background1.webp", "/image/background2.webp", "/image/background3.webp", "/image/background4.webp", "/image/background5.webp", "/image/background6.webp", "/image/background7.webp", "/image/background8.webp", "/image/background9.webp", "/image/background10.webp", "/image/background11.webp", "/image/background12.webp", "/image/background13.webp", "/image/background14.webp", "/image/background15.webp", "/image/background16.webp", "/image/background17.webp", "/image/background18.webp", "/image/background19.webp", "/image/background20.webp", "/image/background21.webp", "/image/background22.webp", "/image/background23.webp", "/image/background24.webp", "/image/background25.webp", "/image/background26.webp", "/image/background27.webp", "/image/background28.webp", "/image/background29.webp", "/image/background30.webp", "/image/background31.webp", "/image/background32.webp", "/image/background33.webp", "/image/background34.webp", "/image/background35.webp", "/image/background36.webp", "/image/background37.webp", "/image/background38.webp", "/image/background39.webp", "/image/background40.webp", "/image/background41.webp", "/image/background42.webp", "/image/background43.webp", "/image/background44.webp", "/image/background45.webp"
+        ]
+    }, {
+        "name": "每日一图",
+        "url": "https://api.dujin.org/bing/1920.php",
+        "images": []
+    }, {
+        "name": "随机风景",
+        "url": "https://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
+        "images": []
+    }, {
+        "name": "随机ACG",
+        "url": "https://www.loliapi.com/acg/",
+        "images": []
+    }, {
+        "name": "栗次元API",
+        "url": "https://t.mwm.moe/ycy",
+        "images": []
+    }, {
+        "name": "动漫API",
+        "url": "https://tuapi.eees.cc/api.php?category=dongman&type=302",
+        "images": []
+    }, {
+        "name": "樱花动漫",
+        "url": "https://www.dmoe.cc/random.php",
+        "images": []
+    }, {
+        "name": "EEE.DOG",
+        "url": "https://api.yimian.xyz/img",
+        "images": []
+    }, {
+        "name": "风景API",
+        "url": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+        "images": []
+    }, {
+        "name": "必应API",
+        "url": "https://tuapi.eees.cc/api.php?category=biying&type=302",
+        "images": []
+    }, {
+        "name": "美女API",
+        "url": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
+        "images": []
+    }, {
+        "name": "随机图片",
+        "url": "https://api.shanrenyi.top/img",
+        "images": []
+    }
+]
